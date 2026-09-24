@@ -5,7 +5,6 @@ Customer Churn Prediction and RFM-Based Customer Risk Analysis for Online Retail
 
 Student Name  : G. Pranay Sai Nadh
 College       : Mohan Babu University
-Project Type  : B.Tech Final-Year Machine Learning / Data Science Internship Project
 Dataset       : Online Retail II (UCI Machine Learning Repository)
 Dataset Link  : https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
 
