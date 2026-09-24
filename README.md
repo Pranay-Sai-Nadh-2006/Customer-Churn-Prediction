@@ -5,14 +5,6 @@
 ![pandas](https://img.shields.io/badge/pandas-1.5+-150458?style=flat&logo=pandas&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat)
 
-**Student Name:** G. Pranay Sai Nadh  
-**Institution:** Mohan Babu University  
-**Project Type:** B.Tech Final-Year Machine Learning / Data Science Internship Project  
-**Dataset:** Online Retail II (UCI Machine Learning Repository)  
-**Dataset Link:** [Kaggle - Online Retail II UCI](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
-
----
-
 ## 📌 Executive Summary
 
 This project delivers an end-to-end **Machine Learning & Customer Risk Intelligence System** developed for high-volume online retail businesses. By synthesizing transaction-level data spanning two years (1,067,371 raw records), the system autonomously:
@@ -204,9 +196,3 @@ When querying a customer (e.g., CustomerID `12346`):
 4. **CRM Integration:** Directly push high-risk customer segments into marketing tools (HubSpot, Salesforce, Klaviyo).
 
 ---
-
-## 📜 Author & Acknowledgments
-
-* **Developer:** G. Pranay Sai Nadh
-* **Institution:** Mohan Babu University
-* **Data Provider:** UCI Machine Learning Repository / Kaggle (Mashlyn)
